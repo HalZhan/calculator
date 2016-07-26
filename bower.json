@@ -1,0 +1,20 @@
+{
+  "name": "calculator",
+  "homepage": "https://github.com/HalZhan/calculator",
+  "authors": [
+    "halzhan <halzhan163@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mathjs": "^3.3.0"
+  }
+}
