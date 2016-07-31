@@ -86,7 +86,9 @@
     // 清空
     var _doClean = function() {
     	var inputArea = $('[data-elem="inputArea"]');
+        var resultArea = $('[data-elem="resultArea"]');
     	inputArea.text('');
+        resultArea.text('');
     };
     // 委托按钮事件
     var bindEvents = function() {

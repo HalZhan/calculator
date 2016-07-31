@@ -45,8 +45,10 @@
 .calculator .btn-panel .number {
 	width: 60px;
 	margin: 4px;
+	border: 1px solid #ccc;
 }
 .calculator .btn-panel .operator {
 	width: 65px;
 	margin: 4px;
+	border: 1px solid #ccc;
 }
